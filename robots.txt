@@ -1,0 +1,113 @@
+
+User-agent: Yandex
+Allow: /
+Disallow: /admin/
+Disallow: /search/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /personal/
+Disallow: /*?utm_
+Disallow: /*?sort=
+Disallow: /*?filter=
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content
+
+
+User-agent: YandexImages
+Allow: /
+Disallow: /admin/
+Disallow: /search/
+
+
+User-agent: YandexNews
+Allow: /
+Disallow: /admin/
+Disallow: /search/
+
+User-agent: YandexVideo
+Allow: /
+Disallow: /admin/
+
+
+User-agent: YandexMedia
+Allow: /
+Disallow: /admin/
+
+
+User-agent: YandexAdNet
+Allow: /
+Disallow: /admin/
+
+
+User-agent: YandexBlogs
+Allow: /
+Disallow: /admin/
+
+
+User-agent: YandexForDomain
+Disallow: /
+
+User-agent: YandexPagechecker
+Disallow: /
+
+User-agent: YandexSitelinks
+Disallow: /
+
+User-agent: YandexSpravBot
+Disallow: /
+
+User-agent: YandexTurbo
+Allow: /
+Disallow: /admin/
+
+User-agent: YandexVerticals
+Disallow: /
+
+
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+Disallow: /search/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /personal/
+Disallow: /*?utm_
+Disallow: /*?sort=
+Disallow: /*?filter=
+
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /admin/
+
+
+User-agent: Googlebot-Video
+Allow: /
+Disallow: /admin/
+
+
+User-agent: Googlebot-News
+Allow: /
+Disallow: /admin/
+
+
+User-agent: GoogleOther
+Disallow: /
+
+
+User-agent: Google-CloudVertexBot
+Disallow: /
+
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /search/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /personal/
+Disallow: /*?utm_
+Disallow: /*?sort=
+Disallow: /*?filter=
+
+
+
+Sitemap: https://push-dryg.ru/sitemap.xml
