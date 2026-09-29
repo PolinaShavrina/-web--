@@ -18,5 +18,5 @@
     <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/robots.txt">Четвертое домашнее задание - Robots.txt Сайта https://push-dryg.ru</li>
 </ul>
 <h2><ul>Доклады:</h2>
-  <li><a href = "">Доклад "Жизненный цикл HTTP-запроса и паттерны разработки"</li>
+  <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Доклад.pdf">Доклад "Жизненный цикл HTTP-запроса и паттерны разработки"</li>
 </ul>
