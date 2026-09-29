@@ -13,7 +13,7 @@
 </ul>
 <h2><ul>Домашние работы:</h2>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2.pdf">Первое домашнее задание – Анализ сайтов</li>
-    <li><a href = "">Второе домашнее задание – MVC</li>
+    <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Отчёт%20по%20проекту%20ювелирного%20магазина.pdf">Второе домашнее задание – MVC</li>
     <li><a href= "https://github.com/PolinaShavrina/-web--/blob/main/Книга2.pdf">Третье домашнее задание - Анализ по запросам</li>
     <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/robots.txt">Четвертое домашнее задание - Robots.txt Сайта https://push-dryg.ru</li>
 </ul>
