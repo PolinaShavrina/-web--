@@ -37,34 +37,9 @@ Allow: /
 Disallow: /admin/
 
 
-User-agent: YandexAdNet
-Allow: /
-Disallow: /admin/
-
-
 User-agent: YandexBlogs
 Allow: /
 Disallow: /admin/
-
-
-User-agent: YandexForDomain
-Disallow: /
-
-User-agent: YandexPagechecker
-Disallow: /
-
-User-agent: YandexSitelinks
-Disallow: /
-
-User-agent: YandexSpravBot
-Disallow: /
-
-User-agent: YandexTurbo
-Allow: /
-Disallow: /admin/
-
-User-agent: YandexVerticals
-Disallow: /
 
 
 User-agent: Googlebot
