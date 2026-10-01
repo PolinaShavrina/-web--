@@ -10,7 +10,7 @@ Disallow: /*?utm_
 Disallow: /*?sort=
 Disallow: /*?filter=
 Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content
-
+//сообщает поисковому роботу Яндекса: определённые параметры в URL-адресе не влияют на содержимое страницы, и их можно игнорировать при индексации
 
 User-agent: YandexImages
 Allow: /
