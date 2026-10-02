@@ -1,4 +1,7 @@
+# Sitemap
+Sitemap: https://push-dryg.ru/sitemap.xml
 
+# Яндекс
 User-agent: Yandex
 Allow: /
 Disallow: /admin/
@@ -6,23 +9,13 @@ Disallow: /search/
 Disallow: /cart/
 Disallow: /checkout/
 Disallow: /personal/
-Disallow: /*?utm_
 Disallow: /*?sort=
 Disallow: /*?filter=
 Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content
-
-
-/* сообщает поисковому роботу Яндекса: определённые параметры в URL-адресе не влияют на содержимое страницы, и их можно игнорировать при индексации
-Метка utm_source здесь нужна только для отслеживания источника перехода. Контент страницы не меняется от того, зашёл ли пользователь на сайт из мессенджера или из рассылки. * /
-
-
+# Clean-param: utm_source&utm_medium... — сообщает роботу Яндекса,
+# что эти параметры не влияют на содержимое страницы
+# используются в маркетинге для отслеживания источников трафика. Например, ?utm_source=yandex показывает, что переход был из Яндекса.
 User-agent: YandexImages
-Allow: /
-Disallow: /admin/
-Disallow: /search/
-
-
-User-agent: YandexNews
 Allow: /
 Disallow: /admin/
 Disallow: /search/
@@ -31,17 +24,7 @@ User-agent: YandexVideo
 Allow: /
 Disallow: /admin/
 
-
-User-agent: YandexMedia
-Allow: /
-Disallow: /admin/
-
-
-User-agent: YandexBlogs
-Allow: /
-Disallow: /admin/
-
-
+# Google
 User-agent: Googlebot
 Allow: /
 Disallow: /admin/
@@ -49,7 +32,6 @@ Disallow: /search/
 Disallow: /cart/
 Disallow: /checkout/
 Disallow: /personal/
-Disallow: /*?utm_
 Disallow: /*?sort=
 Disallow: /*?filter=
 
@@ -57,21 +39,14 @@ User-agent: Googlebot-Image
 Allow: /
 Disallow: /admin/
 
-
 User-agent: Googlebot-Video
 Allow: /
 Disallow: /admin/
 
-
-User-agent: Googlebot-News
-Allow: /
-Disallow: /admin/
-
-
 User-agent: GoogleOther
 Disallow: /
 
-
+# Остальные
 User-agent: *
 Allow: /
 Disallow: /admin/
@@ -79,10 +54,5 @@ Disallow: /search/
 Disallow: /cart/
 Disallow: /checkout/
 Disallow: /personal/
-Disallow: /*?utm_
 Disallow: /*?sort=
 Disallow: /*?filter=
-
-
-
-Sitemap: https://push-dryg.ru/sitemap.xml
