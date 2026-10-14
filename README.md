@@ -21,3 +21,6 @@
 <h2><ul>Доклады:</h2>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Доклад.pdf">Доклад "Жизненный цикл HTTP-запроса и паттерны разработки"</li>
 </ul>
+<h2><ul>Конспекты:</h2>
+  <li><a href = "">Конспект - </li>
+</ul>
