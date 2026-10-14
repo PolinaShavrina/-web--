@@ -22,5 +22,5 @@
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Доклад.pdf">Доклад "Жизненный цикл HTTP-запроса и паттерны разработки"</li>
 </ul>
 <h2><ul>Конспекты:</h2>
-  <li><a href = "">Конспект - </li>
+  <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Основы%20разработки%20веб-приложений.md">Конспект №1 - Основы разработки веб-приложений</li>
 </ul>
