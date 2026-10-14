@@ -29,5 +29,6 @@
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Проведение%20общего%20аудита%20сайта.%20HTTP-протокол%20и%20json.md">Конспект №5 - Проведение общего аудита сайта. HTTP-протокол и json.md</li>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Способы%20ускорения%20сайтов.md">Конспект №6 - Способы ускорения сайтов</li>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Внутренняя%20оптимизация.md">Конспект №7 - внутр. оптимизация</li>
-  <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Архитектура%20и%20шаблон.md">Конспект 8 - АРхитектура и шаблон</li>
+  <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Архитектура%20и%20шаблон.md">Конспект №8 - Архитектура и шаблон</li>
+  <li><a href = "">Конспект №11 - Типы адаптивных макетов</li>
 </ul>
