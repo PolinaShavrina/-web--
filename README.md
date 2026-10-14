@@ -25,5 +25,5 @@
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Основы%20разработки%20веб-приложений.md">Конспект №1 - Основы разработки веб-приложений</li>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Вторая%20пара.md">Конспект №2 - аналитика</li>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Третья%20пара.md">Конспект №3 - оптимизация</li>
-  <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Четвертая%20пара.md">Конспект №4</li>
+  <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Юзабилити.md">Конспект №4 - юзабилити</li>
 </ul>
