@@ -32,4 +32,5 @@
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Архитектура%20и%20шаблон.md">Конспект №8 - Архитектура и шаблон</li>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Оптимизация%20изображений.md">Конспект №10 - Оптимизация изображений</li>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Типы%20адаптивных%20макетов.md">Конспект №11 - Типы адаптивных макетов</li>
+  <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Правила%20семантической%20вёрстки.md">Конспект №12 - Правила семантической вёрстки</li>
 </ul>
