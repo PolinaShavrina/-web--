@@ -40,7 +40,7 @@ FAQ	Частые вопросы	Как купить билет? Как смот�
 
 Пример MindMap / схемы навигации:
 
- 
+ ![Рисунок 1](https://github.com/PolinaShavrina/-web--/blob/main/photo/Рисунок1.png)
 
 
 https://polinashavrina.github.io/online-theatre/
