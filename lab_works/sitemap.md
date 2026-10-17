@@ -46,27 +46,29 @@ FAQ	Частые вопросы	Как купить билет? Как смот�
 https://polinashavrina.github.io/online-theatre/
 
 
-| № | Раздел | Подразделы | Пример URL | Приоритет (Priority) | Частота (Changefreq) |
-|---|---|---|---|---|
-| 1 | Главная | – | https://polinashavrina.github.io/online-theatre/ | 1.0 | daily |
-| 2 | Афиша | – | https://polinashavrina.github.io/online-theatre/afisha.html | 0.9 | daily |
-| 2.1 | Афиша -> Жанры | Список жанров | https://polinashavrina.github.io/online-theatre/genres.html | 0.8 | weekly |
-| 2.2 | Афиша -> Жанры -> Спектакли | Драма / Комедия / Балет / Опера / Детские | https://polinashavrina.github.io/online-theatre/genre.html | 0.7 | weekly |
-| 2.3 | Афиша -> Спектакль | Карточка спектакля | https://polinashavrina.github.io/online-theatre/play.html | 0.9 | weekly |
-| 2.4 | Афиша -> Расписание | Календарь показов | https://polinashavrina.github.io/online-theatre/schedule.html | 0.8 | daily |
-| 2.5 | Афиша -> Отзывы | Отзывы зрителей | https://polinashavrina.github.io/online-theatre/reviews.html | 0.6 | weekly |
-| 3 | Корзина | – | https://polinashavrina.github.io/online-theatre/cart.html | 0.5 | monthly |
-| 4 | Оплата | – | https://polinashavrina.github.io/online-theatre/checkout.html | 0.5 | monthly |
-| 5 | Новости | Список новостей | https://polinashavrina.github.io/online-theatre/news.html | 0.8 | daily |
-| 5.1 | Новости -> Новость | Детальная страница | https://polinashavrina.github.io/online-theatre/news-item.html | 0.7 | weekly |
-| 6 | Блог | Список статей | https://polinashavrina.github.io/online-theatre/blog.html | 0.7 | weekly |
-| 6.1 | Блог -> Статья | Детальная страница | https://polinashavrina.github.io/online-theatre/blog-item.html | 0.6 | monthly |
-| 7 | FAQ | – | https://polinashavrina.github.io/online-theatre/faq.html | 0.6 | monthly |
-| 8 | О театре | – | https://polinashavrina.github.io/online-theatre/about.html | 0.7 | monthly |
-| 9 | Контакты | – | https://polinashavrina.github.io/online-theatre/contacts.html | 0.6 | monthly |
-| 10 | Личный кабинет | – | https://polinashavrina.github.io/online-theatre/account.html | 0.4 | weekly |
-| 10.1 | Личный кабинет -> Вход | – | https://polinashavrina.github.io/online-theatre/login.html | 0.3 | yearly |
-| 10.2 | Личный кабинет -> Регистрация | – | https://polinashavrina.github.io/online-theatre/register.html | 0.3 | yearly |
+```markdown
+| № | Раздел | Подразделы | Пример URL | Частота | Приоритет |
+|---|--------|------------|------------|---------|-----------|
+| 1 | Главная | – | https://polinashavrina.github.io/online-theatre/ | daily | 1.0 |
+| 2 | Афиша | – | https://polinashavrina.github.io/online-theatre/afisha.html | daily | 0.9 |
+| 2.1 | Афиша | Афиша -> Жанры (Список жанров) | https://polinashavrina.github.io/online-theatre/genres.html | weekly | 0.8 |
+| 2.2 | Афиша | Афиша -> Жанры -> Спектакли (Драма / Комедия / Балет / Опера / Детские) | https://polinashavrina.github.io/online-theatre/genre.html | weekly | 0.7 |
+| 2.3 | Афиша | Афиша -> Спектакль (Карточка спектакля) | https://polinashavrina.github.io/online-theatre/play.html | weekly | 0.9 |
+| 2.4 | Афиша | Афиша -> Расписание (Календарь показов) | https://polinashavrina.github.io/online-theatre/schedule.html | daily | 0.8 |
+| 2.5 | Афиша | Афиша -> Отзывы (Отзывы зрителей) | https://polinashavrina.github.io/online-theatre/reviews.html | weekly | 0.6 |
+| 3 | Корзина | – | https://polinashavrina.github.io/online-theatre/cart.html | monthly | 0.5 |
+| 4 | Оплата | – | https://polinashavrina.github.io/online-theatre/checkout.html | monthly | 0.5 |
+| 5 | Новости | Список новостей | https://polinashavrina.github.io/online-theatre/news.html | daily | 0.8 |
+| 5.1 | Новости | Новости -> Новость (Детальная страница) | https://polinashavrina.github.io/online-theatre/news-item.html | weekly | 0.7 |
+| 6 | Блог | Список статей | https://polinashavrina.github.io/online-theatre/blog.html | weekly | 0.7 |
+| 6.1 | Блог | Блог -> Статья (Детальная страница) | https://polinashavrina.github.io/online-theatre/blog-item.html | monthly | 0.6 |
+| 7 | FAQ | – | https://polinashavrina.github.io/online-theatre/faq.html | monthly | 0.6 |
+| 8 | О театре | – | https://polinashavrina.github.io/online-theatre/about.html | monthly | 0.7 |
+| 9 | Контакты | – | https://polinashavrina.github.io/online-theatre/contacts.html | monthly | 0.6 |
+| 10 | Личный кабинет | – | https://polinashavrina.github.io/online-theatre/account.html | weekly | 0.4 |
+| 10.1 | Личный кабинет | Личный кабинет -> Вход | https://polinashavrina.github.io/online-theatre/login.html | yearly | 0.3 |
+| 10.2 | Личный кабинет | Личный кабинет -> Регистрация | https://polinashavrina.github.io/online-theatre/register.html | yearly | 0.3 |
+```
 
 
 <?xml version="1.0" encoding="UTF-8"?>
