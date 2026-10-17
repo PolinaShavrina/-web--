@@ -4,7 +4,7 @@
 <h2><ul>Лабораторные работы:</h2> 
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Лабараторная_работа_№1.pdf">Первая лабораторная работа "Проведение общего аудита сайта: CEO, юзабилити, тексты"</li>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Лабараторная_работа_2 (1).pdf">Вторая лабораторная работа -  «ТЕХНИЧЕСКАЯ ОПТИМИЗАЦИЯ, ДОПОЛНИТЕЛЬНЫЕ НАСТРОЙКИ»</li>
-  <li>Третий пункт</li>
+  <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/lab_works/sitemap.md">Третья лабораторная работа - Sitemap</li>
 </ul>
 <h2><ul>Практическая работы:</h2>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%E2%84%961.pdf">Первая практическая работа — Пользовательские запросы в веб-приложении</li>
