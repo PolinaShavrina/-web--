@@ -243,8 +243,8 @@
 Переключатель темы «День/Ночь»
 
 <table>
-  <td>
-    <tr>
+  <tr>
+    <td>
       
       const btn = document.getElementById('btn');
       let theme = false;
@@ -253,6 +253,6 @@
           const isDark = document.body.classList.toggle('dark-theme');
           btn.textContent = theme ? 'Переключить на светлую': 'Переключить на тёмную';
       }
-  </tr>
   </td>
+  </tr>
 </table>
