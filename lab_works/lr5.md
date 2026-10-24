@@ -353,7 +353,7 @@ js
 <h2>Замерить загрузку в DevTools → Network. Объяснить влияние<br>
 задержки на конверсию.</h2>
 
-[!Рис1]("https://github.com/PolinaShavrina/-web--/blob/main/photo/labwork/la5/Screenshot%202026-10-24%20110548.png")
+![Рис1](https://github.com/PolinaShavrina/-web--/blob/main/photo/labwork/la5/Screenshot%202026-10-24%20110548.png)
 
 1. **index.html (Document)**:
    - **Status 200**: Успешная загрузка.
