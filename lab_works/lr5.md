@@ -33,8 +33,35 @@
   </tr>
 </table>
 
+
   
   <li>768–1023px — планшет</li>
+
+
+
+  <table>
+  <tr>
+    <td>
+      
+    @media (min-width: 768px) and (max-width: 1023px) {
+    .container_2 { padding: 24px 18px; }
+    .grid { grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 16px; }
+    .hero { padding: 45px 30px; }
+    .hero h1 { font-size: 28px; }
+    .hero p  { font-size: 16px; }
+    h1 { font-size: 26px; }
+    h2 { font-size: 22px; }
+    .filter-bar { gap: 6px; }
+    /* таблицы — обёртка вместо display:block */
+    .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+    .table-wrap table { min-width: 600px; }
+  }
+    
+  </td>
+  </tr>
+</table>
+
+
   <li><768px — мобильный</li>
   <li>Реализовать Flex/Grid.</li>
   <li>Обновить стили под разные устройства.</li>
