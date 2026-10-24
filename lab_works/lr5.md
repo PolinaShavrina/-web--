@@ -292,3 +292,60 @@ js
   </td>  
   </tr>
 </table>
+
+
+Переключатель «Обычный шрифт / Крупный шрифт»
+
+html
+<table>
+  <tr>
+    <td>
+      
+      <button id="btn1">
+                А+
+      </button>
+      <button  id="btn2">
+                А-
+      </button>
+    
+  </td>  
+  </tr>
+</table>
+
+js
+<table>
+  <tr>
+    <td>
+      
+     const paragraph = document.querySelector('p');
+    const zagalovok = document.querySelector('h2');
+    
+    // Функция для изменения размера
+    function changeFontSize() {
+      // Находим контейнер
+      const controlElement = document.querySelector('.container_2');
+      controlElement.style.fontSize = `${currentZoom}%`;
+    }
+    
+    // Обработчики для кнопок
+    btn1.addEventListener('click', () => {
+        console.log('message: A+');
+      // if (currentZoom < percentages[2]) {
+      //   currentZoom += 25; // Увеличиваем на 25%
+      // }
+      paragraph.style.fontSize = '50px';
+      zagalovok.style.fontSize = '50px';
+    });
+    
+    btn2.addEventListener('click', () => {
+      // if (currentZoom > percentages[0]) {
+      //   currentZoom -= 25; // Уменьшаем на 25%
+      // }
+      paragraph.style.fontSize = '10px';
+      zagalovok.style.fontSize = '50px';
+    });
+
+    
+  </td>  
+  </tr>
+</table>
