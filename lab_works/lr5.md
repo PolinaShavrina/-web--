@@ -172,5 +172,22 @@
   </tr>
 </table>
   <li>Реализовать Flex/Grid.</li>
+  <table>
+    <tr>
+      <td>
+      
+            /* Grid & Cards */
+          .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 20px; }
+          .card { background: #fff; border-radius: 10px; padding: 20px; box-shadow: 0 2px 10px rgba(0,0,0,.06); transition: .2s; }
+          .card:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0,0,0,.12); }
+          .card h3 { margin-bottom: 8px; }
+          .card .genre { display: inline-block; background: #e94560; color: #fff; padding: 2px 10px; border-radius: 12px; font-size: 12px; margin-bottom: 8px; }
+          .card .price { font-size: 20px; font-weight: bold; color: #e94560; margin-top: 10px; }
+          .card p { color: #666; font-size: 14px; }
+          .card .meta { color: #999; font-size: 13px; margin-top: 6px; }
+
+  </td>   
+  </tr>
+  </table>
   <li>Обновить стили под разные устройства.</li>
 </ol>
