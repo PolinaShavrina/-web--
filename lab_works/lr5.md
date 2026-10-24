@@ -11,7 +11,24 @@
   <table>
   <tr>
     <td>/* ---------- Базовые настройки (десктоп ≥1024px) ---------- */<br>
-    .container { width: 100%; }</td>
+    .container { width: 100%; }
+    /* Сетка карточек: на десктопе 3–4 колонки */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 20px;
+    }
+
+    /* Контейнер для товаров/контента (используется в разметке) */
+    .container_2 {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr); /* 3 колонки на десктопе */
+      gap: 20px;
+    }
+    
+    </td>
   </tr>
 </table>
 
