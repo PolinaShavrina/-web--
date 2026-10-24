@@ -12,21 +12,65 @@
   <tr>
     <td>
       
-    /* ---------- Базовые настройки (десктоп ≥1024px) ---------- */<br>
-    .container { width: 100%; }
-    /* Сетка карточек: на десктопе 3–4 колонки */
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-      gap: 20px;
+    .header-inner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: nowrap;   /* было wrap — из-за этого на планшете всё прыгало */
+      gap: 10px;
     }
-    /* Контейнер для товаров/контента (используется в разметке) */
-    .container_2 {
-      max-width: 1200px;
-      margin: 0 auto;
-      display: grid;
-      grid-template-columns: repeat(3, 1fr); /* 3 колонки на десктопе */
-      gap: 20px;
+    
+    /* Навигация — единый селектор .nav */
+    .nav {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 4px;
+    }
+    .nav a {
+      color: #eee;
+      text-decoration: none;
+      margin-left: 14px;
+      font-size: 14px;
+      transition: .2s;
+      white-space: nowrap;
+    }
+    .nav a:hover { color: #e94560; }
+    .nav a.active { color: #e94560; font-weight: 600; }
+    .nav a.cart {
+      background: #e94560;
+      padding: 6px 12px;
+      border-radius: 5px;
+      color: #fff;
+      margin-left: 14px;
+    }
+    .nav a.cart:hover { background: #c73650; color: #fff; }
+    
+    /* Кнопки внутри навигации */
+    .nav button {
+      margin-left: 8px;
+      padding: 6px 10px;
+      font-size: 13px;
+      border: 1px solid rgba(255,255,255,.25);
+      background: transparent;
+      color: #eee;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: .2s;
+      white-space: nowrap;
+    }
+    .nav button:hover { background: rgba(255,255,255,.12); }
+    
+    /* Гамбургер */
+    .hamburger {
+      display: none;
+      background: none;
+      border: none;
+      font-size: 26px;
+      color: #fff;
+      cursor: pointer;
+      padding: 4px 8px;
+      order: 2;
     }
     
   </td>
