@@ -55,7 +55,7 @@
     /* таблицы — обёртка вместо display:block */
     .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
     .table-wrap table { min-width: 600px; }
-  }
+    }
     
   </td>
   </tr>
