@@ -253,6 +253,6 @@
           const isDark = document.body.classList.toggle('dark-theme');
           btn.textContent = theme ? 'Переключить на светлую': 'Переключить на тёмную';
       }
-    </tr>
+  </tr>
   </td>
 </table>
