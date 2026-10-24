@@ -256,3 +256,13 @@
   </td>
   </tr>
 </table>
+
+Бургер-меню с клавиатурной доступностью
+
+<table>
+  <tr>
+    <td>
+                    <button class="hamburger">☰</button>
+    </td>
+  </tr>
+</table>
