@@ -63,6 +63,114 @@
 
 
   <li><768px — мобильный</li>
+
+  <table>
+  <tr>
+    <td>
+      
+     @media (max-width: 767px) {
+      .container { padding: 0 14px; }
+      .container_2 { padding: 20px 14px; }
+    
+      /* Header */
+      .header-inner { gap: 8px; }
+      .logo { font-size: 19px; }
+    
+      .hamburger { display: block; }
+    
+      /* Выезжающее меню */
+      .nav {
+        position: fixed;
+        top: 0;
+        right: -100%;
+        width: 80%;
+        max-width: 320px;
+        height: 100vh;
+        background: #1a1a2e;
+        transition: right .3s ease;
+        z-index: 1000;
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+        gap: 2px;
+        padding: 70px 16px 20px;
+        margin: 0;
+        box-shadow: -4px 0 20px rgba(0,0,0,.3);
+        overflow-y: auto;
+        flex-wrap: nowrap;
+      }
+      .nav.open { right: 0; }
+    
+      .nav a,
+      .nav button {
+        margin: 0;
+        width: 100%;
+        padding: 12px 10px;
+        font-size: 15px;
+        color: #eee;
+        border-bottom: 1px solid rgba(255,255,255,.07);
+        background: transparent;
+        border-radius: 0;
+        text-align: left;
+        white-space: normal;
+      }
+      .nav a.cart {
+        text-align: center;
+        margin-top: 10px;
+        border-bottom: none;
+        border-radius: 5px;
+      }
+      .nav button:hover { background: rgba(255,255,255,.1); }
+    
+      /* блокировка скролла при открытом меню */
+      body.menu-open { overflow: hidden; }
+    
+      /* Main */
+      main { padding: 20px 0; }
+    
+      /* Hero */
+      .hero { padding: 32px 20px; border-radius: 10px; margin-bottom: 22px; text-align: center; }
+      .hero h1 { font-size: 23px; }
+      .hero p  { font-size: 15px; }
+      .hero .btn { display: block; margin-top: 12px; }
+    
+      h1 { font-size: 22px; margin-bottom: 14px; }
+      h2 { font-size: 19px; margin: 22px 0 12px; }
+      h3 { font-size: 17px; }
+    
+      /* Сетка карточек */
+      .grid { grid-template-columns: 1fr; gap: 14px; }
+      .card { padding: 16px; }
+      .card .price { font-size: 18px; }
+    
+      /* Кнопки */
+      .btn { display: block; width: 100%; text-align: center; padding: 12px 18px; }
+      .btn-sm { display: inline-block; width: auto; padding: 6px 12px; }
+    
+      /* Формы */
+      form input, form textarea, form select { font-size: 16px; padding: 11px; }
+    
+      /* Фильтр */
+      .filter-bar { flex-direction: column; align-items: stretch; }
+      .filter-bar .btn { margin-top: 0; }
+    
+      /* Section title */
+      .section-title { flex-direction: column; align-items: flex-start; gap: 8px; }
+    
+      /* Таблицы */
+      .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+      .table-wrap table { min-width: 560px; }
+    
+      /* FAQ / новости / блог */
+      .faq-item, .news-item, .blog-item { padding: 16px; }
+    
+      /* Footer */
+      footer { padding: 20px 0; font-size: 13px; }
+    }
+    
+  </td>
+  </tr>
+</table>
   <li>Реализовать Flex/Grid.</li>
   <li>Обновить стили под разные устройства.</li>
 </ol>
