@@ -258,11 +258,37 @@
 </table>
 
 Бургер-меню с клавиатурной доступностью
-
+html
 <table>
   <tr>
     <td>
-                    <button class="hamburger">☰</button>
-    </td>
+      
+      <button class="hamburger">☰</button>
+    
+  </td>  
+  </tr>
+</table>
+
+js
+<table>
+  <tr>
+    <td>
+      
+      let hamburger = document.querySelector('.hamburger');
+    let nav = document.querySelector('.nav');
+    
+    hamburger.addEventListener('click', function(e) {
+    	e.stopPropagation();
+    	nav.classList.toggle('active');
+    });
+    
+    document.addEventListener('click', function(e) {
+    	if (!nav.contains(e.target)) {
+    		nav.classList.remove('active');
+    	}
+    });
+
+    
+  </td>  
   </tr>
 </table>
