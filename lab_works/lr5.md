@@ -235,3 +235,24 @@
   </table>
   <li>Обновить стили под разные устройства.</li>
 </ol>
+
+
+
+2.4. Реализуйте дополнительные возможности
+сайта
+Переключатель темы «День/Ночь»
+
+<table>
+  <td>
+    <tr>
+      
+      const btn = document.getElementById('btn');
+      let theme = false;
+      function ChangeTheme() {
+          theme = !theme;
+          const isDark = document.body.classList.toggle('dark-theme');
+          btn.textContent = theme ? 'Переключить на светлую': 'Переключить на тёмную';
+      }
+    </tr>
+  </td>
+</table>
