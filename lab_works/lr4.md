@@ -95,7 +95,8 @@ Disallow: /cart/
 Disallow: /checkout/
 Disallow: /search/
 Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term
-Host: [https://example.ru](https://github.com/PolinaShavrina/dents/)
+
+Host: [](https://github.com/PolinaShavrina/dents/)](https://github.com/PolinaShavrina/dents/)
 
 # Googlebot
 User-agent: Googlebot
