@@ -5,7 +5,7 @@
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Лабараторная_работа_№1.pdf">Первая лабораторная работа "Проведение общего аудита сайта: CEO, юзабилити, тексты"</li>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Лабараторная_работа_2 (1).pdf">Вторая лабораторная работа -  «ТЕХНИЧЕСКАЯ ОПТИМИЗАЦИЯ, ДОПОЛНИТЕЛЬНЫЕ НАСТРОЙКИ»</li>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/lab_works/sitemap.md">Третья лабораторная работа - Sitemap</li>
-  <li><a href = "">Четвертая лабораторная(не готово)</li>
+  <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/lab_works/lr4.md">Четвертая лабораторная - СЯ</li>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/lab_works/lr5.md">Лабораторная работа №5. Тема: Адаптивный дизайн и UX-аудит</li>
 </ul>
 <h2><ul>Практическая работы:</h2>
