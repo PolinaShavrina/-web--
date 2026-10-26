@@ -11,7 +11,7 @@
 <h2><ul>Практическая работы:</h2>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%E2%84%961.pdf">Первая практическая работа — Пользовательские запросы в веб-приложении</li>
   <li><a href ="https://github.com/PolinaShavrina/-web--/blob/main/Практическая%20работа_3.md">Практическая работа №3 - Оптимизация изображений</li>
-  <li>Третий пункт</li>
+  <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/pr_works/практическая%20работа_5.md"> Практическая работа № 5  - сниппеты, seo-теги, семантическая разметка</li>
 </ul>
 <h2><ul>Домашние работы:</h2>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2.pdf">Первое домашнее задание – Анализ сайтов</li>
