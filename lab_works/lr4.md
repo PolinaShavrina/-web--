@@ -95,7 +95,7 @@ Disallow: /cart/
 Disallow: /checkout/
 Disallow: /search/
 Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term
-Host: https://example.ru
+Host: [https://example.ru](https://github.com/PolinaShavrina/dents/)
 
 # Googlebot
 User-agent: Googlebot
@@ -105,7 +105,7 @@ Disallow: /cart/
 Disallow: /checkout/
 Disallow: /search/
 
-Sitemap: https://example.ru/sitemap.xml
+Sitemap: https://github.com/PolinaShavrina/dents/blob/master/sitemap.xml
 ```
 
 **Пояснения к директивам:**
