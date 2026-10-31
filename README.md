@@ -24,7 +24,7 @@
 </ul>
 <h2><ul>Доклады:</h2>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Доклад.pdf">Доклад "Жизненный цикл HTTP-запроса и паттерны разработки"</li>
-    <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Доклад.pdf">Nginx и Apache</li>
+    <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/доклады/Nginx%20и%20Apache.docx">Nginx и Apache</li>
 </ul>
 <h2><ul>Конспекты:</h2>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/Основы%20разработки%20веб-приложений.md">Конспект №1 - Основы разработки веб-приложений</li>
