@@ -45,7 +45,7 @@
 <h2>УЧЕБНАЯ ПРАКТИКА</h2>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr>
-    <th>№1</th>
+    <th>№</th>
     <th>Ссылка</th>
   </tr>
   <tr>
