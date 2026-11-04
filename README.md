@@ -43,7 +43,17 @@
   <li><a href= "https://github.com/PolinaShavrina/-web--/blob/main/Асинхронный%20веб.md">Конспект №14 - Асинхронный веб</li>
 </ul>
 <h2>УЧЕБНАЯ ПРАКТИКА</h2>
-<table>
-  <th>№1</th><th>Ссылка</th>
-  <tb>1</tb><tb><a href = "https://github.com/PolinaShavrina/-web--/blob/main/educational%20practice/Практическая%20работа%201%20Аудит%20доступности%20сайта.pdf" </a></tb>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <th>№1</th>
+    <th>Ссылка</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>
+      <a href="https://github.com/PolinaShavrina/-web--/blob/main/educational%20practice/Практическая%20работа%201%20Аудит%20доступности%20сайта.pdf">
+        Практическая работа 1. Аудит доступности сайта (PDF)
+      </a>
+    </td>
+  </tr>
 </table>
