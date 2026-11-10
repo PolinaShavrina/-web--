@@ -59,4 +59,12 @@
       </a>
     </td>
   </tr>
+   <tr>
+    <td>2</td>
+    <td>
+      <a href="https://github.com/PolinaShavrina/-web--/blob/main/educational%20practice/Практическая%20работа%201%20Аудит%20доступности%20сайта.pdf">
+        Практическая работа 2. Стратегия контекстной рекламы
+      </a>
+    </td>
+  </tr>
 </table>
