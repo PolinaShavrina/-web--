@@ -9,6 +9,7 @@
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/lab_works/lr5.md">Лабораторная работа №5. Тема: Адаптивный дизайн и UX-аудит</li>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/lab_works/ЛБ.6.pdf">Лабораторная работа №6. Поисковая оптимизация (SEO)</li>
   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/lab_works/%D0%BE%D1%82%D1%87%D1%91%D1%82%20%D0%BB%D0%B0%D0%B1%D0%B0.pdf"> Лабораторная работа Настройка Apache + PHP-FPM в VirtualBox</li>
+   <li><a href = "https://github.com/PolinaShavrina/-web--/blob/main/lab_works/Отчёт%20по%20практическим%20работам%20№%202.1–2.4.pdf"> MVC</li>
     
 </ul>
 <h2><ul>Практическая работы:</h2>
