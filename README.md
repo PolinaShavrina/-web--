@@ -65,4 +65,5 @@
   <tr><td>1</td><td>Практическая работа 1. Аудит доступности сайта (PDF)</td><td><a href="https://github.com/PolinaShavrina/-web--/blob/main/educational%20practice/Практическая%20работа%201%20Аудит%20доступности%20сайта.pdf">открыть</a></td></tr>
   <tr><td>2</td><td>Практическая работа 2. Стратегия контекстной рекламы</td><td><a href="https://github.com/PolinaShavrina/-web--/blob/main/educational%20practice/pr2-kontekstnaya-reklama.pdf">открыть</a></td></tr>
   <tr><td>3</td><td>Практическая работа 3. Создание и реализация стратегии контент-маркетинга, написание SEO-оптимизированного контента.</td><td><a href="https://github.com/PolinaShavrina/-web--/blob/main/educational%20practice/pr3-kontent-marketing.pdf">открыть</a></td></tr>
+  <tr><td>4</td><td>Тема 4: Социальный медиа маркетинг: разработка и реализация стратегии продвижения в социальных сетях.</td><td><a href="https://github.com/PolinaShavrina/-web--/blob/main/educational%20practice/pr4-smm.pdf">открыть</a></td></tr>
 </table>
